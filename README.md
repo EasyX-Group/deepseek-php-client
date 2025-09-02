@@ -63,7 +63,7 @@ composer require deepseek-php/deepseek-php-client
 ```
 
 **Requirements**:
-- PHP 8.1+
+- PHP 7.4+
 
 ---
 
