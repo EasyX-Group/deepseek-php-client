@@ -1,5 +1,5 @@
 {
-    "name": "deepseek-php/deepseek-php-client",
+    "name": "easyx/deepseek-php-client",
     "description": "deepseek PHP client is a robust and community-driven PHP client library for seamless integration with the Deepseek API, offering efficient access to advanced AI and data processing capabilities.",
     "keywords": [
         "deepseek",
